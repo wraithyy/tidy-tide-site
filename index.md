@@ -8,3 +8,5 @@ A calm cut-paper puzzle: raise and lower the tide so every sea creature swims in
 
 - [Privacy policy](privacy.html)
 - Support and feedback: [play@jkvapil.cz](mailto:play@jkvapil.cz)
+
+Made by [jkvapil.cz](https://jkvapil.cz).
