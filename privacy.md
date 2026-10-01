@@ -44,4 +44,4 @@ We may update this policy. The current version is always available at this addre
 
 ## Contact
 
-Questions about this policy: [open an issue on GitHub](https://github.com/wraithyy/tidy-tide-site/issues)
+Questions about this policy: [play@jkvapil.cz](mailto:play@jkvapil.cz)
