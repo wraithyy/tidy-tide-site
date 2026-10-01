@@ -22,7 +22,8 @@ The game shows ads provided by Google AdMob. To serve and measure ads, Google ma
 - the advertising ID of your device (Android Advertising ID / Apple IDFA),
 - your IP address and approximate location derived from it,
 - device information (model, operating system, language),
-- information about ad interactions (views, clicks).
+- information about ad interactions (views, clicks),
+- app-instance identifiers and crash or diagnostic data from the ad SDK.
 
 How Google uses this data is described in
 [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
@@ -33,6 +34,11 @@ before personalised ads are shown. You can change your choice at any time in **S
 If you do not consent, you may still see non-personalised ads.
 
 You can also reset or delete your advertising ID in your device settings.
+
+## In-app purchase
+
+"Remove ads" is sold through Google Play. Google handles the payment; the game only receives a confirmation that
+the purchase was made, never your payment details.
 
 ## Children
 
